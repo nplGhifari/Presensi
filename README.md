@@ -1,3 +1,2 @@
 # Presensi
-Tgs UAS Rekayasa Perangkat Lunak
-Muhammad Naufal A.A (G.231.22.0176)
+Tgs UAS team 8 Rekayasa Perangkat Lunak
